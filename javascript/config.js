@@ -480,7 +480,10 @@ var language = [
     "infDeleteNote":"Do you want to delete this note?",
     "btnBack":"Back",
     "proFullScreenWarn":"Current browser does not support full-screen, Please use Chrome for best results.",
-    "frmVideoListTitle":"Video list","frmVideoTitle":"Video"}];
+    "frmVideoListTitle":"Video list",
+    "frmVideoTitle":"Video"
+  }
+];
 
 var fliphtml5_pages = [
   {"l":"files/page/1.jpg","t":"files/thumb/1.jpg"},{"p":"none","l":"files/page/2.jpg","t":"files/thumb/2.jpg"},{"l":"files/page/3.jpg","t":"files/thumb/3.jpg"},
