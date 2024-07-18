@@ -1,12 +1,12 @@
 function orgt(s) {return binl2hex(core_hx(str2binl(s), s.length * chrsz))};
 
 var bookConfig = {
-  "CreatedTime":"2023-03-10113026",
-  "CreatedVersion":"6.22.6",
-  "ClientBookId":"1678447826365",
-  "productName":"Flip PDF Plus",
-  "productVersion":"6.22.6",
-  "homePage":"https://www.flipbuilder.com/",
+  //"CreatedTime":"2023-03-10113026",
+  //"CreatedVersion":"6.22.6",
+  //"ClientBookId":"1678447826365",
+  //"productName":"Flip PDF Plus",
+  //"productVersion":"6.22.6",
+  //"homePage":"https://www.flipbuilder.com/",
   "totalPageCount":636,
   "largePageWidth":989,
   "largePageHeight":1280,
