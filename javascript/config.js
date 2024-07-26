@@ -211,7 +211,7 @@ var bookConfig = {
   "excludeFrontPages":"0",
   "passwardPrompt":"",
   "isShowAssistantPerson":true,
-  "mainPDF":"files/profile 17.11.23.pdf"
+  //"mainPDF":"files/profile 17.11.23.pdf"
 };
 
 var language = [
